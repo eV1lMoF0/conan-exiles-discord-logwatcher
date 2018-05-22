@@ -1,0 +1,9 @@
+[package]
+name = "conan-exiles-discord-logwatcher"
+version = "0.1.0"
+authors = ["Kristoffer Strøm Bergset <kristoffer@bergset.no>"]
+
+[dependencies]
+logwatcher = "0.1"
+regex = "1.0.0"
+reqwest = "0.8.2"
