@@ -4,4 +4,8 @@ Reads the server log from a running Conan Exiles dedicated server and posts cert
 
 Usage:
 
+Set environment variable `DISCORD_WEBHOOK` to your Discord webhook.
+
+ex: `https://discordapp.com/api/webhooks/aaaa/bbbb`
+
 `./conan-exiles-discord-logwatcher /path/to/ConanSandbox/Saved/Logs/ConanSandbox.log`
